@@ -1,0 +1,3 @@
+bossbar add cooking:bar "Готовка..."
+bossbar set cooking:bar max 100
+bossbar set cooking:bar visible false
